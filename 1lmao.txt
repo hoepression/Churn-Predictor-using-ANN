@@ -1,0 +1,6 @@
+
+To activate this environment, use   
+     $ conda activate /home/ice/code/project/venv
+
+
+      $ conda deactivate
